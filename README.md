@@ -33,3 +33,8 @@ O jogo conta com:
 - **Versão:** 6000.2.13f1 
 - **Linguagem:** C#  
 - **Sistema de Input:** Unity Input System  
+
+## ▶️ Download
+As versões jogáveis estão disponíveis na aba **Releases**:
+https://github.com/xDanielNunes/Pong-da-shopee/releases
+
